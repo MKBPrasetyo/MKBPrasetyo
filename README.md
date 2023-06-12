@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MKBPrasetyo
-- 👀 I’m interested in Data Analytics
+- 👀 interested in Web Development, Data Engineering and Data Analytics 
 - 🌱 I’m currently learning Python, SQL, R and Data Visualization Tools
 
 <!---
